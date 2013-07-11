@@ -1,0 +1,20 @@
+{
+  "name": "restartable",
+  "version": "0.0.10",
+  "author": {
+    "name": "Matthias Behrens",
+    "email": "matthias.behrens@gmail.com"
+  },
+  "description": "a simple way to restart your app without actually restarting node.js",
+  "main": "./lib/restartable.js",
+  "keywords": [
+    "restart",
+    "server",
+    "restartable"
+  ],
+  "license": "BSD",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "readmeFilename": "README.md"
+}
